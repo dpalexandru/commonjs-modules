@@ -20,3 +20,5 @@ Crea una funzione che non ha parametri. La funzione dovrebbe restituire un ogget
 ### Cosa ho imparato 
 
 Ho imparato a scrivere una funzione che restituisce un oggetto e soprattutto a suddividere il codice in più file, rendendo ogni parte più chiara e riutilizzabile. Importando la funzione con require, ho capito come modularizzare il mio progetto: invece di avere tutto in un unico file, posso scrivere funzioni riutilizzabili in file separati e importarli dove mi servono. Questo rende il codice più organizzato e professionale
+
+### Consegna 29/07/2025
