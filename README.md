@@ -16,3 +16,7 @@ Esporta la funzione dal file.
 Importa la tua funzione da names.js
 Importa la tua funzione da hobbies.js
 Crea una funzione che non ha parametri. La funzione dovrebbe restituire un oggetto con due proprietà: fullName ed hobbies. All'interno della tua funzione, usa le tue due funzioni precedenti per costruire l'oggetto.
+
+### Cosa ho imparato 
+
+Ho imparato a scrivere una funzione che restituisce un oggetto e soprattutto a suddividere il codice in più file, rendendo ogni parte più chiara e riutilizzabile. Importando la funzione con require, ho capito come modularizzare il mio progetto: invece di avere tutto in un unico file, posso scrivere funzioni riutilizzabili in file separati e importarli dove mi servono. Questo rende il codice più organizzato e professionale
